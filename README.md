@@ -10,7 +10,7 @@ OpenAI API key
 ffmpeg  
 https://ffmpeg.org/  
 
-Python Libraries:
+Python Libraries:  
 openai  
 gradio  
 pyttsx3  
