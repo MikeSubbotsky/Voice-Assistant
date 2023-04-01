@@ -1,6 +1,6 @@
 # Voice assisstant
 
-Voice conversation with chatGPT
+Voice conversation with chatGPT  
 ChatGPT + Whisper from OpenAI
 
 ## Requirments
