@@ -5,12 +5,12 @@ ChatGPT + Whisper from OpenAI
 
 ## Requirments
 
-OpenAI API key
+OpenAI API key  
 
-ffmpeg
-https://ffmpeg.org/
+ffmpeg  
+https://ffmpeg.org/  
 
 Python Libraries:
-openai
-gradio
-pyttsx3
+openai  
+gradio  
+pyttsx3  
